@@ -6,10 +6,10 @@ const About = () => (
   <section>
     <Title fontSize={16}>Sobre</Title>
     <Paragrafo tipo="principal">
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur
-      laudantium dignissimos unde aut numquam repellat maxime rem porro, odit
-      optio harum quam nihil sit voluptatibus, veritatis eveniet, perspiciatis
-      ut qui.
+      Atualmente estudo front-end React, back-end Python na EBAC (Escola
+      Britânica de Artes Criativas) e Análise e Desenvolvimento de Sistemas pela
+      Universidade Estácio de Sá. Também tenho interesse pelas áreas de Ciência
+      de Dados, Machine Learning, ecossistema Python e Mercado Financeiro.
     </Paragrafo>
     <GithubSecao>
       <img src="https://github-readme-stats.vercel.app/api?username=Albert5a&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
